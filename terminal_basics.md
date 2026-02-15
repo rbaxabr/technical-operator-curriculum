@@ -2,12 +2,12 @@
 
 ## Navigation
 
-pwd                # print working directory
-ls                 # list files in current folder
-ls ~               # list files in home directory
-cd folder_name     # enter folder
-cd ..              # go up one directory
-cd ~               # go to home directory
+`pwd`                # print working directory
+`ls`                 # list files in current folder
+`ls ~`               # list files in home directory
+`cd folder_name`     # enter folder
+`cd ..`              # go up one directory
+`cd ~`               # go to home directory
 
 ## Helpful Tricks
 
